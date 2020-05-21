@@ -15,14 +15,3 @@ You need to have installed following softwares and libraries in your machine bef
 1. Python 3: https://www.python.org/downloads/
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like  pandas, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 
-## Libraries: 
-* __Tensorflow:__ It is a deep learning library.
-    * pip install tensorflow
-* __OpenCV:__ It is used for processing images.
-    * pip install opencv-python
-
-## Authors
-•	Gaurav Sharma - Complete work  
-
-## Acknowledgments
-•	Applied AI Course
